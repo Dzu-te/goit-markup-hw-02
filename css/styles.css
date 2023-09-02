@@ -188,6 +188,7 @@ p {
 .our_potfolio_title {
   border: 1px solid var(--c-bgc-head);
   background: var(--c-white);
+  color: #2e2f42;
 }
 
 .h2_portfolio{
