@@ -77,7 +77,6 @@ p {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
 }
 
 .nav_header_link:hover {
@@ -85,15 +84,15 @@ p {
 }
 
 .nav_header_link:active {
-    color: #404bbf;    
+  color: #404bbf;
 }
 
 .nav_header_link:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 
-.nav_adress {
-  color: var(--c-slate);
+.adress {
+  color: #434455;
   text-decoration: none;
   font-style: normal;
   font-weight: 400;
@@ -101,8 +100,8 @@ p {
   letter-spacing: 0.02em;
 }
 
-.nav_adress:active {
-  color: var(--c-links-buttons-hover);
+.adress:active {
+  color: #404bbf;
 }
 
 /* hero section */
@@ -145,16 +144,13 @@ p {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
-  
 }
 
 /* section 3 our portfolio */
 
 .our_potfolio_title {
-
   border: 1px solid var(--c-bgc-head);
   background: var(--c-white);
 }
 
 /* section footer */
-
