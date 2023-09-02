@@ -124,7 +124,7 @@ ul {
   background-color: #404bbf;
 }
 
-/* srction one description */
+/* srction first description */
 
 .description_company_title {
   font-weight: 500;
@@ -135,6 +135,30 @@ ul {
 }
 
 .p_descripion_company {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* section second our team */
+
+.section_second_our_team {
+    background-color: #f4f4fd;
+}
+
+.h_two_our_team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.our_team_title {
+    color: #ffffff;
+}
+
+.p_our_team {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
