@@ -22,8 +22,8 @@ header {
   font-family: "Roboto", sans-serif;
 }
 
-address{
-    font-style: normal;
+address {
+  font-style: normal;
 }
 
 a {
@@ -95,25 +95,25 @@ p {
   color: #404bbf;
 }
 
-.adress {
+.address {
   color: #434455;
   text-decoration: none;
-  
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.adress:hover{
-   color: #404bbf;
-}
-
-.adress:active {
+.address:hover {
   color: #404bbf;
 }
 
-.adress:focus {
-   color: #404bbf;
+.address:active {
+  color: #404bbf;
+}
+
+.address:focus {
+  color: #404bbf;
 }
 
 /* hero section */
