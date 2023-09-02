@@ -79,3 +79,16 @@ ul {
     color: #404bbf;
 }
 
+.a_address{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.a_address:hover{
+    color: #404bbf;
+}
+
+.a_address:focus {
+    color: #404bbf;
+}
