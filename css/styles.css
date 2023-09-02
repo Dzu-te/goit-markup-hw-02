@@ -63,73 +63,78 @@ ul {
   color: #2e2f42;
 }
 
-.nav_header_link{
-    color: #2E2F42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.nav_header_link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
-.nav_header_link:hover{
-    color: #404bbf;
+.nav_header_link:hover {
+  color: #404bbf;
 }
 
 .nav_header_link:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 
-.a_address{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+.a_address {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.a_address:hover{
-    color: #404bbf;
+.a_address:hover {
+  color: #404bbf;
 }
 
 .a_address:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 
 /* hero section */
 
 .hero_section {
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .hero_section_one {
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 
 .button {
-    background-color: #4D5AE5;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
 }
 
-.button:hover{
-    background-color: #404bbf;
+.button:hover {
+  background-color: #404bbf;
 }
 
 .button:focus {
-    background-color: #404bbf;
+  background-color: #404bbf;
 }
 
 /* srction one description */
 
-.description_company_title{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 00.02em;
-    color: #2e2f42;
+.description_company_title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 00.02em;
+  color: #2e2f42;
+}
+
+.p_descripion_company {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
