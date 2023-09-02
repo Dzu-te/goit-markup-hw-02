@@ -70,7 +70,7 @@ p {
   color: #2e2f42;
 }
 
-.nav_header_link:focus {
+.nav_header_link {
   color: var(--c-bcg-navy-blue);
   text-decoration: none;
   font-style: normal;
