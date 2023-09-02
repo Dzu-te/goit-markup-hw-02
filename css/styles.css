@@ -105,7 +105,7 @@ p {
 }
 
 .adress:hover{
-    #404bbf
+    #404bbf;
 }
 
 .adress:active {
@@ -113,7 +113,7 @@ p {
 }
 
 .adress:focus {
-    #404bbf
+    #404bbf;
 }
 
 /* hero section */
