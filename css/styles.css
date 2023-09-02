@@ -79,7 +79,7 @@ p {
   letter-spacing: 0.02em;
 }
 
-.nav_header_link:active {
+.nav_header_link:hover {
   color: var(--c-links-buttons-hover);
 }
 
