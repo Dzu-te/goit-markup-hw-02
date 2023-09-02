@@ -93,7 +93,7 @@ ul {
     color: #404bbf;
 }
 
-/* first section */
+/* hero section */
 
 .hero_section {
     background-color: #2e2f42;
@@ -122,4 +122,14 @@ ul {
 
 .button:focus {
     background-color: #404bbf;
+}
+
+/* srction one description */
+
+.description_company_title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 00.02em;
+    color: #2e2f42;
 }
