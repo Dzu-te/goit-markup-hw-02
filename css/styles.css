@@ -1,0 +1,151 @@
+:root {
+  --c-bcg-navy-blue: #2e2f42;
+  --c-white: #ffffff;
+  --c-cloud: #f4f4fd;
+  --c-bgc-head: #e7e9fc;
+  --c-links-buttons-normal: #4d5ae5;
+  --c-links-buttons-hover: #404bbf;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--c-bcg-navy-blue);
+  background-color: var(--c-white);
+  font-size: 16px;
+}
+
+/* NAVIGATION */
+
+header {
+  border: 1px solid var(--c-bgc-head);
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+p {
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.visually_hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.nav_logo_link {
+  font-family: "Raleway", sans-serif;
+  color: var(--c-bcg-navy-blue);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logo_web {
+  color: #4d5ae5;
+}
+
+.nav_header_link {
+  color: var(--c-bcg-navy-blue);
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav_header_link:active {
+  color: var(--c-links-buttons-hover);
+}
+
+.nav_adress {
+  color: var(--c-bcg-navy-blue);
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav_adress:active {
+  color: var(--c-links-buttons-hover);
+}
+
+/* hero section */
+.hero_section {
+  background-color: var(--c-bcg-navy-blue);
+}
+
+.h1_hero_section {
+  color: var(--c-white);
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.button {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--c-white);
+  background-color: var(--c-links-buttons-normal);
+  border: 0;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.button:hover {
+  background-color: var(--c-links-buttons-hover);
+}
+
+/* section 1 description company */
+
+/* section 2 our team */
+.section_2_our_team {
+  background-color: var(--c-cloud);
+}
+.our_team_title {
+  border-radius: 0px 0px 4px 4px;
+  background: var(--c-white);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+  width: 264px;
+}
+
+/* section 3 our portfolio */
+
+.our_potfolio_title {
+  width: 360px;
+  height: 420px;
+  border: 1px solid var(--c-bgc-head);
+  background: var(--c-white);
+}
+
+/* section footer */
+
