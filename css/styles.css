@@ -47,7 +47,7 @@ p {
   letter-spacing: 0.02em;
 }
 
-/* .visually_hidden {
+.visually_hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -58,7 +58,7 @@ p {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-} */
+}
 
 .nav_logo_link {
   font-family: "Raleway", sans-serif;
