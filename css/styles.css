@@ -151,7 +151,9 @@ p {
 }
 
 /* section 1 description company */
-
+.description_company_title{
+    color: #2e2f42;
+}
 /* section 2 our team */
 .section_2_our_team {
   background-color: var(--c-cloud);
