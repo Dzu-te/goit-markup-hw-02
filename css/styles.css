@@ -22,6 +22,10 @@ header {
   font-family: "Roboto", sans-serif;
 }
 
+address{
+    font-style: normal;
+}
+
 a {
   text-decoration: none;
 }
