@@ -104,8 +104,16 @@ p {
   letter-spacing: 0.02em;
 }
 
+.adress:hover{
+    #404bbf
+}
+
 .adress:active {
   color: #404bbf;
+}
+
+.adress:focus {
+    #404bbf
 }
 
 /* hero section */
