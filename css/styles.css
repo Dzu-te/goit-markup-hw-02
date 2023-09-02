@@ -88,6 +88,10 @@ p {
     color: #404bbf;    
 }
 
+.nav_header_link:focus {
+    color: #404bbf;
+}
+
 .nav_adress {
   color: var(--c-slate);
   text-decoration: none;
