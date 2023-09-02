@@ -80,7 +80,7 @@ p {
 }
 
 .nav_header_link:hover {
-  color: var(--c-links-buttons-hover);
+  color: #404bbf;
 }
 
 .nav_adress {
