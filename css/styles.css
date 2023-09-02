@@ -5,6 +5,7 @@
   --c-bgc-head: #e7e9fc;
   --c-links-buttons-normal: #4d5ae5;
   --c-links-buttons-hover: #404bbf;
+  --c-slate: #434455;
 }
 
 body {
@@ -83,7 +84,7 @@ p {
 }
 
 .nav_adress {
-  color: var(--c-bcg-navy-blue);
+  color: var(--c-slate);
   text-decoration: none;
   font-style: normal;
   font-weight: 400;
