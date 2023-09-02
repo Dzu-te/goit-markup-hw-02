@@ -20,7 +20,6 @@ body {
 header {
   border: 1px solid var(--c-bgc-head);
   font-family: "Roboto", sans-serif;
-  line-height: 1.17;
 }
 
 a {
@@ -62,7 +61,7 @@ p {
   color: var(--c-bcg-navy-blue);
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
