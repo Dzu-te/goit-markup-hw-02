@@ -70,3 +70,11 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.nav_header_link:hover{
+    color: #404bbf;
+}
+
+.nav_header_link:focus {
+    color: #404bbf;
+}
