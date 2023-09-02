@@ -70,13 +70,14 @@ p {
   color: #2e2f42;
 }
 
-.nav_header_link {
+.nav_header_link:focus {
   color: var(--c-bcg-navy-blue);
   text-decoration: none;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  
 }
 
 .nav_header_link:hover {
